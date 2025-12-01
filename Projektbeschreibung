@@ -1,0 +1,32 @@
+# Projektbeschreibung: Verbesserung der Sicherheit mobiler CT-Scanner
+
+Unsere Firma konstruiert mobile CT-Scanner, die auf LKW-Anhängern montiert sind.  
+Diese Einheiten fahren in verschiedene Orte und bieten dort diagnostische Bildgebung an – vor allem für ältere Patienten, die Krankenhäuser nur schwer erreichen können.
+---
+## Problembeschreibung
+Während des Betriebs bleibt die Strahlung des CT-Scanners nicht vollständig im Fahrzeug eingeschlossen.  
+Bestimmte Bauelemente der Abschirmung lassen Strahlung nach außen dringen, die sogar in mehreren Metern Entfernung messbar ist. 
+
+Dies stellt ein erhebliches Risiko für Personen dar, insbesondere für Menschen mit implantierten medizinischen Geräten wie Herzschrittmachern.  
+Da die meisten unserer Patienten älter sind, ist die Wahrscheinlichkeit hoch, dass solche gefährdeten Personen betroffen sind.
+---
+
+## Lösungsvorschlag
+
+- **Verbesserte Abschirmung**  
+  Neugestaltung der Schutzkammer mit mehrschichtigen Bleiplatten oder Wolfram sowie strahlungsabsorbierenden Verbundmaterialien.
+
+- **Strahlungsüberwachung**  
+  Installation externer Sensoren rund um das Fahrzeug, die kontinuierlich Strahlungswerte messen und bei Leckagen Alarm auslösen.
+
+- **Sicherheitsprotokolle**  
+  Einrichtung von Sperrzonen um den LKW während des Betriebs, deutlich gekennzeichnet durch Schilder, um Passanten fernzuhalten.
+
+- **Patientenschutz**  
+  Zusätzliche Abschirmung im Inneren des Anhängers, um Patienten und Personal – insbesondere mit Herzschrittmachern – zu schützen.
+
+- **Zertifizierung & Tests**  
+  Durchführung strenger Prüfungen nach internationalen Strahlenschutzstandards vor der Inbetriebnahme.
+---
+## Fazit
+Diese Maßnahmen gewährleisten die Sicherheit der Patienten und stärken das Vertrauen in mobile Diagnosetechnologien.
