@@ -24,9 +24,6 @@ During the meeting, the student was expected to:
 - The student rehearsed **problem–solution structure** and **discussion readiness**.
 - Materials were prepared in **both German and English** to support comprehension and bilingual communication.
 
-## 📂 Repository Contents
-- `Scanner DE.docx` – German project description with technical problem and solutions.
-- `Safety Improvements for Mobile CT Scanner Units.pdf` – English presentation prepared for the company meeting.
 
 ##  Project Significance
 This project demonstrates:
