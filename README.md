@@ -26,7 +26,7 @@ During the meeting, the student was expected to:
 
 ## 📂 Repository Contents
 - `Scanner DE.docx` – German project description with technical problem and solutions.
-- `Safety Improvements for Mobile CT Scanner Units.pptx` – English presentation prepared for the company meeting.
+- `Safety Improvements for Mobile CT Scanner Units.pdf` – English presentation prepared for the company meeting.
 
 ##  Project Significance
 This project demonstrates:
